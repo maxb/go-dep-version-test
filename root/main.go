@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/maxb/go-dep-version-test/alpha"
+    "github.com/maxb/go-dep-version-test/alpha/v2"
     "github.com/maxb/go-dep-version-test/beta"
 )
 

@@ -1,5 +1,5 @@
 package alpha
 
 func Alpha() string {
-    return "alpha"
+    return "alpha-TWO"
 }

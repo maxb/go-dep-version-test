@@ -1,1 +1,1 @@
-module github.com/maxb/go-dep-version-test/alpha
+module github.com/maxb/go-dep-version-test/alpha/v2

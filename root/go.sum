@@ -4,5 +4,5 @@ github.com/maxb/go-dep-version-test/alpha v1.0.0 h1:lV/maJGsQs4EglBN9KflHMCP/cbC
 github.com/maxb/go-dep-version-test/alpha v1.0.0/go.mod h1:+zuZ39zQY3gFaaoIkYVxHxAnqFYz/eYcSUTPls/4MIA=
 github.com/maxb/go-dep-version-test/alpha/v2 v2.0.2 h1:/gDyvHZRW6iFO+lJ7POZ0VblAA9l+I54Lfj4/BelOg4=
 github.com/maxb/go-dep-version-test/alpha/v2 v2.0.2/go.mod h1:lYvR0WKfq8z61VDLxeKqEcA6UEW4hYc/A8c4Pr3jm1M=
-github.com/maxb/go-dep-version-test/beta v1.0.0 h1:K9qr7GxHoO5j9coT2Qj9MesJANEOKfaH7FNpWLBJ3Sc=
-github.com/maxb/go-dep-version-test/beta v1.0.0/go.mod h1:qxxDprTsHbQfuH5rnb7FPnMJ/QevNkNDqFLOtawERq8=
+github.com/maxb/go-dep-version-test/beta v1.0.1-0.20190310155520-3798c901e2a4 h1:dnUKpysigx3eQtqz1ASle8BMJKoVFOZD/tKC+XeJlQ0=
+github.com/maxb/go-dep-version-test/beta v1.0.1-0.20190310155520-3798c901e2a4/go.mod h1:qxxDprTsHbQfuH5rnb7FPnMJ/QevNkNDqFLOtawERq8=

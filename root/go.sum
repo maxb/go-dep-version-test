@@ -1,3 +1,5 @@
+github.com/maxb/go-dep-version-test v3.0.0+incompatible h1:pPmsvrsDsEJZD6zbKejYiipxNVyVy/oBv8vW2t7UJHo=
+github.com/maxb/go-dep-version-test v3.0.0+incompatible/go.mod h1:MHQsm3tkUAaZeOxrae2B94kKGonLRUfr7GF8oF1BZvc=
 github.com/maxb/go-dep-version-test/alpha v1.0.0 h1:lV/maJGsQs4EglBN9KflHMCP/cbCp3+lBHZIc0J1H1w=
 github.com/maxb/go-dep-version-test/alpha v1.0.0/go.mod h1:+zuZ39zQY3gFaaoIkYVxHxAnqFYz/eYcSUTPls/4MIA=
 github.com/maxb/go-dep-version-test/alpha/v2 v2.0.2 h1:/gDyvHZRW6iFO+lJ7POZ0VblAA9l+I54Lfj4/BelOg4=
